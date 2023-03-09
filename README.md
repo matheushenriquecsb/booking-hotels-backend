@@ -28,4 +28,4 @@ Aplicação simula o site da booking. Possuindo toda as rotas responsáveis por 
 
 ### Acesso ao projeto
 
- [Acesse o código fonte do projeto](https://github.com/matheushenriquecsb/bookingapp-backend)  
+ [Acesse o código fonte do projeto](https://github.com/matheushenriquecsb/booking-hotels-backend)  
